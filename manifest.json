@@ -1,0 +1,21 @@
+{
+  "name": "دليل العملاء — الأثر الذهبي",
+  "short_name": "دليل العملاء",
+  "description": "دليل مرجعي محمول لعملاء الشركة مع الإحداثيات والمسارات — يعمل بدون إنترنت",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F4EF",
+  "theme_color": "#6E1020",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%236E1020'/%3E%3Ctext x='256' y='340' font-size='300' font-family='sans-serif' font-weight='bold' fill='%23BE9B4E' text-anchor='middle'%3E%D8%A3%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
